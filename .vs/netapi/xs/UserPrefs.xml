@@ -1,23 +1,21 @@
 ﻿<Properties StartupConfiguration="{73AE5A5D-71E4-4482-9E00-0C2522695E9B}|Default">
-  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workbench ActiveDocument="netapi/Controllers/SuperHeroController.cs">
     <Files>
       <File FileName="netapi/Data/DataContext.cs" />
-      <File FileName="netapi/Klasemen.cs" Line="1" Column="1" />
-      <File FileName="netapi/Program.cs" Line="1" Column="1" />
+      <File FileName="netapi/Klasemen.cs" />
+      <File FileName="netapi/Program.cs" />
       <File FileName="netapi/Properties/launchSettings.json" />
-      <File FileName="netapi/WeatherForecast.cs" Line="1" Column="1" />
-      <File FileName="netapi/Controllers/WeatherForecastController.cs" Line="1" Column="1" />
-      <File FileName="netapi/appsettings.json" Line="1" Column="1" />
+      <File FileName="netapi/WeatherForecast.cs" />
+      <File FileName="netapi/Controllers/WeatherForecastController.cs" />
+      <File FileName="netapi/appsettings.json" />
       <File FileName="netapi/Controllers/SuperHeroController.cs" Line="63" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="netapi" expanded="True">
-            <Node name="netapi" expanded="True" selected="True">
+            <Node name="netapi" expanded="True">
               <Node name="Controllers" expanded="True" />
               <Node name="Data" expanded="True" />
               <Node name="Properties" expanded="True" />
@@ -28,7 +26,9 @@
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.netapi PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>
