@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1704.2
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "netapi", "netapi\netapi.csproj", "{73AE5A5D-71E4-4482-9E00-0C2522695E9B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73AE5A5D-71E4-4482-9E00-0C2522695E9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73AE5A5D-71E4-4482-9E00-0C2522695E9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73AE5A5D-71E4-4482-9E00-0C2522695E9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73AE5A5D-71E4-4482-9E00-0C2522695E9B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {00A04C4D-CDFC-4C21-94ED-EAFE62A4AB38}
+	EndGlobalSection
+EndGlobal
